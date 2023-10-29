@@ -1,0 +1,285 @@
+1694880099085	geckodriver	INFO	Listening on 127.0.0.1:36487
+1694880099595	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "46737" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepGCtrd"
+
+(firefox:67742): Gtk-WARNING **: 21:31:39.633: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:39.633: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.129: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.129: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.161: Theme parsing error: gtk.css:4526:35: '-2px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.161: Theme parsing error: gtk.css:4530:35: '-1px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.197: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.197: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.226: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:67742): Gtk-WARNING **: 21:31:40.226: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880100350	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-popup-blocking"
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880100462	Marionette	INFO	Listening on port 45303
+WebDriver BiDi listening on ws://127.0.0.1:46737
+Read port: 45303
+1694880100599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:46737/devtools/browser/a300abc9-e2ae-4670-ac99-9fb67d3e7f16
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://music.apple.com."
+JavaScript error: https://appleid.cdn-apple.com/appleauth/static/jsj/N645514837/widget/auth/app.js, line 679: NS_ERROR_NOT_INITIALIZED
+libva info: VA-API version 1.14.0
+libva info: Trying to open /usr/lib/x86_64-linux-gnu/dri/iHD_drv_video.so
+libva info: Found init function __vaDriverInit_1_14
+libva info: va_openDriver() returns 0
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880165641	Marionette	INFO	Stopped listening on port 45303
+1694880167581	geckodriver	INFO	Listening on 127.0.0.1:36135
+1694880168089	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "39831" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemUNIgV"
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.128: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.128: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.591: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.591: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.622: Theme parsing error: gtk.css:4526:35: '-2px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.622: Theme parsing error: gtk.css:4530:35: '-1px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.660: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.660: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.693: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68361): Gtk-WARNING **: 21:32:48.693: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880168813	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-popup-blocking"
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880168909	Marionette	INFO	Listening on port 33557
+WebDriver BiDi listening on ws://127.0.0.1:39831
+Read port: 33557
+1694880169045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39831/devtools/browser/1c59ed44-0f91-41db-a488-e7faaa9716bc
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://music.apple.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://music.apple.com."
+1694880207294	geckodriver	INFO	Listening on 127.0.0.1:58117
+1694880207801	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "51433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFNfszz"
+
+(firefox:68776): Gtk-WARNING **: 21:33:27.837: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:27.837: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.319: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.319: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.350: Theme parsing error: gtk.css:4526:35: '-2px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.350: Theme parsing error: gtk.css:4530:35: '-1px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.392: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.392: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.425: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:68776): Gtk-WARNING **: 21:33:28.425: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880208553	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-popup-blocking"
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880208651	Marionette	INFO	Listening on port 42543
+WebDriver BiDi listening on ws://127.0.0.1:51433
+Read port: 42543
+1694880208780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:51433/devtools/browser/2a368a31-b55a-492b-b2bc-46c421a69114
+1694880212116	Marionette	INFO	Stopped listening on port 42543
+1694880214143	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+JavaScript warning: https://music.apple.com/assets/index-73d1625d.js, line 4: Script terminated by timeout at:
+getCookie@https://music.apple.com/assets/index-73d1625d.js:4:52577
+get subscriptionStatus@https://music.apple.com/assets/index-73d1625d.js:9:251289
+addMetricsFields@https://music.apple.com/assets/index-73d1625d.js:9:653326
+addMetricsFields/<@https://music.apple.com/assets/index-73d1625d.js:4:97432
+addMetricsFields@https://music.apple.com/assets/index-73d1625d.js:4:97362
+process@https://music.apple.com/assets/index-73d1625d.js:4:101942
+processEvent@https://music.apple.com/assets/index-73d1625d.js:9:656221
+recordCustomEvent@https://music.apple.com/assets/index-73d1625d.js:9:656274
+exit@https://music.apple.com/assets/index-73d1625d.js:9:655842
+onVisibilityChange@https://music.apple.com/assets/index-73d1625d.js:9:656082
+
+1694880216392	Marionette	INFO	Stopped listening on port 33557
+1694880223886	geckodriver	INFO	Listening on 127.0.0.1:37969
+1694880224394	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "56049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek3kcsX"
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.436: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.436: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.887: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.887: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.915: Theme parsing error: gtk.css:4526:35: '-2px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.915: Theme parsing error: gtk.css:4530:35: '-1px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.949: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.949: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.980: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:69139): Gtk-WARNING **: 21:33:44.980: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880225105	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-popup-blocking"
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880225206	Marionette	INFO	Listening on port 44599
+WebDriver BiDi listening on ws://127.0.0.1:56049
+Read port: 44599
+1694880225343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56049/devtools/browser/7105ae0d-5814-4be2-b61c-a18ff7de1d00
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://music.apple.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://music.apple.com."
+JavaScript error: , line 0: TypeError: [jet/action-handlers/flow-action] FlowAction on ListenNow canonicalURL check failed [jet/action-handlers/flow-action] FlowAction destination rejected: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: [jet/action-handlers/flow-action] FlowAction on ListenNow canonicalURL check failed [jet/action-handlers/flow-action] FlowAction destination rejected: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: [jet/action-handlers/flow-action] FlowAction on ListenNow canonicalURL check failed [jet/action-handlers/flow-action] FlowAction destination rejected: NetworkError when attempting to fetch resource.
+JavaScript warning: https://music.apple.com/assets/mt-client-logger-core.esm-77a7eb6f.js, line 1: Script terminated by timeout at:
+C@https://music.apple.com/assets/mt-client-logger-core.esm-77a7eb6f.js:1:1677
+T@https://music.apple.com/assets/mt-client-logger-core.esm-77a7eb6f.js:2:5372
+tt@https://music.apple.com/assets/mt-client-logger-core.esm-77a7eb6f.js:2:5414
+L.prototype.processMetricsData@https://music.apple.com/assets/mt-metricskit.esm-30866ebc.js:4:27190
+c.prototype.processMetricsData@https://music.apple.com/assets/mt-metricskit.esm-30866ebc.js:4:8472
+c.prototype.metricsData@https://music.apple.com/assets/mt-metricskit.esm-30866ebc.js:4:7963
+c.prototype.processMetricsData@https://music.apple.com/assets/mt-metricskit.esm-30866ebc.js:4:8421
+K.prototype.metricsData@https://music.apple.com/assets/mt-metricskit.esm-30866ebc.js:4:21875
+record@https://music.apple.com/assets/index-73d1625d.js:9:651917
+record@https://music.apple.com/assets/index-73d1625d.js:9:649221
+process@https://music.apple.com/assets/index-73d1625d.js:4:102118
+
+1694880406558	Marionette	INFO	Stopped listening on port 44599
+1694880418873	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1694880477241	geckodriver	INFO	Listening on 127.0.0.1:57759
+1694880477750	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "39529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJzpG0d"
+
+(firefox:70612): Gtk-WARNING **: 21:37:57.791: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:57.791: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.248: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.248: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.275: Theme parsing error: gtk.css:4526:35: '-2px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.275: Theme parsing error: gtk.css:4530:35: '-1px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.311: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.311: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.341: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:70612): Gtk-WARNING **: 21:37:58.341: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880478466	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-popup-blocking"
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694880478532	Marionette	INFO	Listening on port 43799
+WebDriver BiDi listening on ws://127.0.0.1:39529
+Read port: 43799
+1694880478671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:39529/devtools/browser/963fa0c0-4ce8-4d21-9f31-fac22cfee751
+1694889238425	geckodriver	INFO	Listening on 127.0.0.1:35295
+1694889238932	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... ge" "--remote-debugging-port" "52189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilev4lx55"
+
+(firefox:91166): Gtk-WARNING **: 00:03:58.972: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:58.972: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.443: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.443: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.484: Theme parsing error: gtk.css:4526:35: '-2px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.484: Theme parsing error: gtk.css:4530:35: '-1px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.520: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.520: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.549: Theme parsing error: gtk.css:4516:35: '-2px' is not a valid color name
+
+(firefox:91166): Gtk-WARNING **: 00:03:59.549: Theme parsing error: gtk.css:4520:35: '-1px' is not a valid color name
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694889239668	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-disable-popup-blocking"
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1694889239754	Marionette	INFO	Listening on port 43969
+WebDriver BiDi listening on ws://127.0.0.1:52189
+Read port: 43969
+1694889239886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52189/devtools/browser/c42d5a11-50d4-4e31-993c-693f6d88fda9
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: [jet/action-handlers/flow-action] FlowAction on ListenNow canonicalURL check failed [jet/action-handlers/flow-action] FlowAction destination rejected: NetworkError when attempting to fetch resource.
+1694889317269	Marionette	INFO	Stopped listening on port 43969
+1694889329113	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
